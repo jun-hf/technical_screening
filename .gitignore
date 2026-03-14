@@ -20,5 +20,9 @@ build/
 .DS_Store
 Thumbs.db
 
+# uv
+uv.lock
+.python-version
+
 # Environment variables
 .env

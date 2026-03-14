@@ -1,0 +1,11 @@
+[project]
+name = "question-1"
+version = "0.1.0"
+description = "Question 1"
+requires-python = ">=3.9"
+dependencies = []
+
+[dependency-groups]
+dev = [
+    "pytest>=8.4.2",
+]
