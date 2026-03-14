@@ -1,2 +1,2 @@
 # technical_screening
-YTL technical screening
+technical screening
